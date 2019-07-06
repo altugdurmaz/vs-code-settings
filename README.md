@@ -1,7 +1,4 @@
 # vs-code-settings
-Tree
-Chart
-JSON Input
 {
 "editor.snippetSuggestions": "top",
 "workbench.colorTheme": "Seti Monokai",
